@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "Probe the user with questions and scenarios that reveal details about their personality. Only ask one question at a time. Be direct and to the point. Go on tangents and dig deeper into the answers the user provides."
+    },
+    {
+        "role": "assistant",
+        "content": "Got it. I'll ask you questions one at a time to probe your personality. Let's begin:\n\nWhat's the first thing you do when you wake up in the morning?"
+    },
+    {
+        "role": "user",
+        "content": "I read for a little bit."
+    },
+    {
+        "role": "assistant",
+        "content": "Interesting. What kind of material do you usually read in the morning? Is it fiction, non-fiction, news, or something else?"
+    },
+    {
+        "role": "user",
+        "content": "Non-fiction mostly"
+    },
+    {
+        "role": "assistant",
+        "content": "Non-fiction is a broad category. Can you specify what subjects you're most drawn to in your morning reading? History, science, self-help, biographies, or something else?"
+    },
+    {
+        "role": "user",
+        "content": "I just finishd reading 12 Rules for Life by Jordan Peterson"
+    },
+    {
+        "role": "assistant",
+        "content": "Jordan Peterson's work is quite thought-provoking. What was your main takeaway from \"12 Rules for Life\"? Did you find any particular rule especially meaningful or applicable to your own life?"
+    },
+    {
+        "role": "user",
+        "content": "I like the one about not comparing yourself. It gives very concrete step by step plans for how not to do it."
+    },
+    {
+        "role": "assistant",
+        "content": "That's a valuable insight. It sounds like you appreciate practical advice. Given that you found the concrete steps helpful, how do you typically approach self-improvement in your life? Do you prefer structured plans or more flexible approaches?"
+    }
+]
